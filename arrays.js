@@ -17,4 +17,4 @@ console.log("Items in heights array:", heights.length);
 
 for(let i=0; i < heights.length; i++){
     console.log('Items', i, 'in heights array:', heights[i]);
-}
+} 
